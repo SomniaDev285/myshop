@@ -4,7 +4,7 @@ Engineering a Slim Custom E-commerce/Web Shop Back End from Scratch with its own
 ---
 ### Setup
 1. Get Visual Studio for Mac or Windows (Linux users, use a virtual machine for now): https://www.visualstudio.com/downloads/
-2. Create a folder and clone the project `git clone https://github.com/R-H-T/MyShop.git`.
+2. Create a folder and clone the project `git clone https://github.com/SomniaDev285/myshop.git`.
 3. Open the project in Visual Studio and hit run. It will automatically open your default browser at `http://localhost:5001`.
 ---
 
@@ -16,9 +16,9 @@ Shopping Cart
 
 ---
 ### License
-Copyright ©2018 – Roberth Hansson-Tornéus ([R-H-T][1]), all rights reserved.
+Copyright ©2018 – SomniaDev285, all rights reserved.
 
-[1]:	https://github.com/R-H-T
+[1]:	https://github.com/SomniaDev285
 
 [image-1]:	ScreenShot1.png
 [image-2]:	ScreenShot2.png
